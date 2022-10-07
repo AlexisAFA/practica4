@@ -1,0 +1,8 @@
+site_name: Alexis
+
+nav:
+    - Principal: index.md
+    - Informacion : alexis.md
+    - Más informacion: alexis1.md
+
+theme: material
